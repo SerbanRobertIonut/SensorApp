@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Sensors/Sensors.vcxproj" Id="b3e31223-2ff2-4a86-b23c-d6c1b0164971" />
-</Solution>
